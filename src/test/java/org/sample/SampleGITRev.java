@@ -15,6 +15,19 @@ public class SampleGITRev {
 		System.out.println("TC2");
 
 	}
+	public void tc3() {
+
+
+		System.out.println("TC3");
+
+	}
+	
+	public void tc4() {
+
+
+		System.out.println("TC4");
+
+	}
 	
 	
 
